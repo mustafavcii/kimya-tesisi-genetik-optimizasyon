@@ -1,4 +1,4 @@
-# kimya-tesisi-genetik-optimizasyon
+
 # Genetik Algoritma ile Kimya Tesisi Optimizasyonu (Senaryo 5)
 
 Bu proje, **Yapay Zeka Sistemleri** dersi kapsamında geliştirilmiştir. Genetik Algoritma (GA) kullanılarak, bir kimya tesisindeki reaksiyon süresi ve sıcaklık değerlerinin, üretim kısıtları altında maksimum verimi sağlayacak şekilde optimize edilmesi amaçlanmıştır.
